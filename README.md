@@ -140,3 +140,27 @@ Figma
 
 
 
+Benefícios Esperados
+
+
+
+Melhorar o desempenho escolar dos estudantes.
+
+Facilitar o acesso ao reforço educacional.
+
+Apoiar o trabalho dos professores.
+
+Promover inclusão digital.
+
+Contribuir para o cumprimento do ODS 4 da ONU.
+
+
+
+Conclusão
+
+
+
+O projeto EduConnect propõe uma solução tecnológica voltada para a educação, utilizando recursos digitais para oferecer suporte ao aprendizado dos estudantes. A plataforma busca tornar o ensino mais acessível, contribuindo para uma educação de qualidade e para a redução das desigualdades educacionais.
+
+
+
