@@ -48,3 +48,95 @@ A tecnologia pode ser utilizada para ampliar o acesso ao conhecimento. Uma plata
 
 Dessa forma, a solução contribui para democratizar a educação e apoiar o desenvolvimento acadêmico dos alunos.
 
+
+
+Funcionalidades da Solução
+
+
+
+Área do Aluno
+
+
+
+Cadastro e login.
+
+Acesso a conteúdos educacionais.
+
+Exercícios interativos.
+
+Chatbot para esclarecimento de dúvidas.
+
+Acompanhamento do desempenho.
+
+
+
+Área do Professor
+
+
+
+Cadastro de turmas.
+
+Publicação de materiais.
+
+Relatórios de desempenho dos alunos.
+
+
+
+Área Administrativa
+
+
+
+Dashboard com indicadores educacionais.
+
+Estatísticas de acesso à plataforma.
+
+
+
+Tecnologias Utilizadas
+
+
+
+Front-end
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+React
+
+
+
+Back-end
+
+
+
+Node.js
+
+Express
+
+
+
+Banco de Dados
+
+
+
+MongoDB
+
+
+
+Ferramentas
+
+
+
+Git
+
+GitHub
+
+Figma
+
+
+
