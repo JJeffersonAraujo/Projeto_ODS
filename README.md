@@ -1,62 +1,37 @@
-EduConnect
+# EduConnect
 
-
-
-Integrantes
-
-
+## Integrantes
 
 Jefferson Araujo
 
 
-
-ODS Escolhida
-
-
+## ODS Escolhida
 
 ODS 4 – Educação de Qualidade
 
 
-
-Objetivo do Projeto
-
-
+## Objetivo do Projeto
 
 Desenvolver uma plataforma digital para auxiliar estudantes no processo de aprendizagem por meio de conteúdos educacionais, exercícios e suporte inteligente.
 
 
-
-Problema Identificado
-
-
+## Problema Identificado
 
 Muitos estudantes apresentam dificuldades de aprendizagem em disciplinas básicas e não possuem acesso a reforço escolar devido a limitações financeiras ou falta de disponibilidade de professores.
-
-
-
 Essa situação pode gerar baixo desempenho acadêmico, desmotivação e até evasão escolar.
 
 
-
-Justificativa da Solução
-
-
+## Justificativa da Solução
 
 A tecnologia pode ser utilizada para ampliar o acesso ao conhecimento. Uma plataforma digital de reforço escolar permite que estudantes tenham acesso a materiais de estudo, exercícios e suporte educacional a qualquer momento.
-
-
-
 Dessa forma, a solução contribui para democratizar a educação e apoiar o desenvolvimento acadêmico dos alunos.
 
 
-
-Funcionalidades da Solução
-
+## Funcionalidades da Solução
 
 
-Área do Aluno
 
-
+### Área do Aluno
 
 Cadastro e login.
 
@@ -70,9 +45,7 @@ Acompanhamento do desempenho.
 
 
 
-Área do Professor
-
-
+### Área do Professor
 
 Cadastro de turmas.
 
@@ -82,9 +55,7 @@ Relatórios de desempenho dos alunos.
 
 
 
-Área Administrativa
-
-
+### Área Administrativa
 
 Dashboard com indicadores educacionais.
 
@@ -92,13 +63,10 @@ Estatísticas de acesso à plataforma.
 
 
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 
-
-Front-end
-
-
+### Front-end
 
 HTML
 
@@ -110,9 +78,7 @@ React
 
 
 
-Back-end
-
-
+### Back-end
 
 Node.js
 
@@ -120,17 +86,13 @@ Express
 
 
 
-Banco de Dados
-
-
+### Banco de Dados
 
 MongoDB
 
 
 
-Ferramentas
-
-
+### Ferramentas
 
 Git
 
@@ -140,9 +102,7 @@ Figma
 
 
 
-Benefícios Esperados
-
-
+### Benefícios Esperados
 
 Melhorar o desempenho escolar dos estudantes.
 
@@ -156,9 +116,7 @@ Contribuir para o cumprimento do ODS 4 da ONU.
 
 
 
-Conclusão
-
-
+## Conclusão
 
 O projeto EduConnect propõe uma solução tecnológica voltada para a educação, utilizando recursos digitais para oferecer suporte ao aprendizado dos estudantes. A plataforma busca tornar o ensino mais acessível, contribuindo para uma educação de qualidade e para a redução das desigualdades educacionais.
 
